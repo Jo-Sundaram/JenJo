@@ -18,3 +18,7 @@ The main function of this program is to be able to input the name of an absent t
 
 
 
+# IDE
+We made this program using IntelliJ IDEA
+
+
