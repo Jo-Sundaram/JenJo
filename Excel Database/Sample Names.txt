@@ -1,0 +1,68 @@
+TEACHERS:     PERIOD;	            Duty Day;	On Call Day;
+Bellamy        1;	                    2A;     	1B
+Nizam	        1;	                    2B;     	1B
+Blackwell	    1;	                    1A;	        2A
+Coderre 	    1;	                    1A;	        2A
+Vincent     	1;                   	1A;	        2B
+StewartD. 	    1;	                    1A;	        2B
+Hale	        1;                   	1A;	        2B
+Gagne	        1;                   	2A;	        N/A
+Schwartz	1 or 2;	                    2A;     	1A
+White	    1 or 2;	                    2B;	        1B
+Fernandez	1 or 2;                 	1A;	        2A
+Hunter	    1 or 2;                 	2A;     	2B
+Zebian	    1 or 2;	                    1B;	        2B
+Young	        2;	                    2A;      	1A
+Corcoran	    2;	                    2A;	        1A
+Jerome	        2;	                    2A;	        1A
+Dorion	        2;	                    1B;	        1A
+StewartR.       2;	                    1A;	        1B
+Permanand	    2;	                    FRI;	    1B
+Rab	            2;	                    1B;         2A
+Brown	        2;	                    1A;	        2A
+Hickey	        2;	                    1A;	        2A
+Budgell	        2;	                    1B;	        2B
+MacKinnon	    2;	                    1B;	        2B
+Kelly	        2;	                    1B	        2B
+Heneke	        3	                    1B;	        1A
+Owens	        3	                    1B;	        1A
+D'Aoust	        3	                    1B;	        1A
+Parent	        3	                    1B;	        1A
+Simoneau	    3	                    2B;	        1B
+Brichta	        3	                    FRI;	    1B
+Rajab	        3	                    T/W;        1B
+Whitmore	    3	                    2A;	        1B
+Baltas	        3	                    1B;	        2A
+Cheung	        3	                    1B;	        2A
+Angel	        3	                    1A;	        2B
+Fitton	        3	                    1A;	        2B
+Fruhauf	        3	                    1A;	        2B
+Simard	        3(2)	                1B;	        1A
+Johnson (LTO)  3 or 4	                1B;	        1A
+Schrum	       3 or 4	                2A;	        1A
+Crich	       3 or 4	                2B;	        2A
+Taylor	       3 or 4	                1A;	        2A
+Holbein	        4	                    2A;	        1A
+Hatfield	    4	                    2A;	        1A
+Jupp	        4	                    2A;	        1A
+Given	        4	                    2B;	        1A
+Birtch	        4	                    2B;	        1B
+Campbell	    4	                    2B;	        1B
+Chahal	        4	                    2B;	        1B
+Fyfe	        4	                    2B;	        1B
+Panneton-Kus	4	                    2B;	        2A
+Muise	        4	                    2B;	        2A
+Varden	        4	                    2B;	        2A
+Younger-Lewis	4	                    2B;	        2A
+Landry	        4	                    2A;      	2B
+MacPhee	        4	                    2A;         2B
+Snow	        4	                    2A;         2B
+Sweet	        3 or 4	                2B	        1A
+Marks-Beaubrun	1 or 3	                2B      	1B
+Dykeman	        1,2,3	                2B      	1B
+Poulin	        1,3,4	                1A	        2A
+Macpherson	    1 or 4	                1B	        2A
+Hoy	            1 or 4              	1A	        2A
+Hamer	        1,2,4	                1B	        2B
+Scheer-Hennings	1,3,4
+Molnar	        2 or 4	                1B      	2B
