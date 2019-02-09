@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JenJo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JenJo_jar</output-path>
+    <root id="archive" name="JenJo.jar">
+      <element id="module-output" name="JenJo" />
+    </root>
+  </artifact>
+</component>
